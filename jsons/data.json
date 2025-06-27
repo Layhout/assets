@@ -170,5 +170,27 @@
       "description": "Balancify is a side project I developed to simplify group expense management with friends and family.",
       "link": "https://balancify.vercel.app/"
     }
+  ],
+  "socialLinks": [
+    {
+      "name": "Telegram",
+      "link": "https://t.me/layhout"
+    },
+    {
+      "name": "LinkedIn",
+      "link": "https://www.linkedin.com/in/layhout-chea"
+    },
+    {
+      "name": "Github",
+      "link": "https://github.com/Layhout"
+    },
+    {
+      "name": "Facebook",
+      "link": "https://www.facebook.com/chea.layhout.79"
+    },
+    {
+      "name": "Instagram",
+      "link": "https://www.instagram.com/layhout_chea"
+    }
   ]
 }
