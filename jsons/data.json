@@ -1,6 +1,6 @@
 {
-  "about_me": "A frontend developer with over ${year} years of experience, fueled by a relentless drive to learn and grow. I’m passionate about expanding my skills and aim to become a highly capable full-stack developer",
-  "my_edu": [
+  "aboutMe": "A frontend developer with over ${year} years of experience, fueled by a relentless drive to learn and grow. I’m passionate about expanding my skills and aim to become a highly capable full-stack developer",
+  "myEdus": [
     {
       "title": "Master of IT Engineering",
       "location": "Royal University of Phnom penh",
@@ -17,7 +17,7 @@
       "date": "2018"
     }
   ],
-  "my_exp": [
+  "myExps": [
     {
       "title": "Frontend Developer",
       "location": "Wing Bank",
@@ -34,7 +34,7 @@
       "date": "Jun 2021 - Sep 2021"
     }
   ],
-  "my_skills": [
+  "mySkills": [
     {
       "name": "HTML",
       "capacity": "90%",
@@ -96,7 +96,7 @@
       "fgColor": "#00add8"
     }
   ],
-  "my_lib_skills": [
+  "myLibSkills": [
     {
       "name": "React js",
       "capacity": "90%",
@@ -164,7 +164,7 @@
       "fgColor": "#f5820d"
     }
   ],
-  "my_projects": [
+  "myProjects": [
     {
       "image": "/assets/images/portfolio_1.png",
       "description": "Balancify is a side project I developed to simplify group expense management with friends and family.",
