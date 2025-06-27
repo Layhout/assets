@@ -1,0 +1,169 @@
+{
+  "about_me": "A frontend developer with over ${year} years of experience, fueled by a relentless drive to learn and grow. I’m passionate about expanding my skills and aim to become a highly capable full-stack developer",
+  "my_edu": [
+    {
+      "title": "Master of IT Engineering",
+      "location": "Royal University of Phnom penh",
+      "date": "2023 - Present"
+    },
+    {
+      "title": "Computer Science",
+      "location": "Royal University of Phnom penh",
+      "date": "2018 - 2022"
+    }
+  ],
+  "my_exp": [
+    {
+      "title": "Frontend Developer",
+      "location": "Wing Bank",
+      "date": "2023 - Present"
+    },
+    {
+      "title": "Software Developer",
+      "location": "Zando Cambodia",
+      "date": "2021 - 2023"
+    },
+    {
+      "title": "Software Developer",
+      "location": "A9 Online",
+      "date": "Jun 2021 - Sep 2021"
+    }
+  ],
+  "my_skills": [
+    {
+      "name": "HTML",
+      "capacity": "90%",
+      "bgColor": "#ffdbcc",
+      "fgColor": "#f06529"
+    },
+    {
+      "name": "CSS",
+      "capacity": "90%",
+      "bgColor": "#ccdbff",
+      "fgColor": "#2965f1"
+    },
+    {
+      "name": "Javascript",
+      "capacity": "90%",
+      "bgColor": "#fff9cc",
+      "fgColor": "#f7df1f"
+    },
+    {
+      "name": "Typescript",
+      "capacity": "80%",
+      "bgColor": "#cce5ff",
+      "fgColor": "#3075c0"
+    },
+    {
+      "name": "PHP",
+      "capacity": "50%",
+      "bgColor": "#cccfff",
+      "fgColor": "#7478af"
+    },
+    {
+      "name": "Java",
+      "capacity": "50%",
+      "bgColor": "#ffcccd",
+      "fgColor": "#e61f23"
+    },
+    {
+      "name": "Python",
+      "capacity": "50%",
+      "bgColor": "#fff4cc",
+      "fgColor": "#FFD43B"
+    },
+    {
+      "name": "Golang",
+      "capacity": "50%",
+      "bgColor": "#ccf5ff",
+      "fgColor": "#00add8"
+    },
+    {
+      "name": "SQL",
+      "capacity": "60%",
+      "bgColor": "#ccebff",
+      "fgColor": "#5a839d"
+    },
+    {
+      "name": "Dart",
+      "capacity": "80%",
+      "bgColor": "#ccf5ff",
+      "fgColor": "#00add8"
+    }
+  ],
+  "my_lib_skills": [
+    {
+      "name": "React js",
+      "capacity": "90%",
+      "bgColor": "#ccf5ff",
+      "fgColor": "#61DBFB"
+    },
+    {
+      "name": "Next js",
+      "capacity": "90%",
+      "bgColor": "#d6d6d6",
+      "fgColor": "#030303"
+    },
+    {
+      "name": "Vue js",
+      "capacity": "50%",
+      "bgColor": "#ccffe8",
+      "fgColor": "#41B883"
+    },
+    {
+      "name": "Tailwind CSS",
+      "capacity": "90%",
+      "bgColor": "#ccefff",
+      "fgColor": "#36b7f1"
+    },
+    {
+      "name": "Framer Motion",
+      "capacity": "60%",
+      "bgColor": "#d6d6d6",
+      "fgColor": "#030303"
+    },
+    {
+      "name": "shadcn/ui",
+      "capacity": "80%",
+      "bgColor": "#d6d6d6",
+      "fgColor": "#030303"
+    },
+    {
+      "name": "Ant Design",
+      "capacity": "60%",
+      "bgColor": "#cce0ff",
+      "fgColor": "#0c69ff"
+    },
+    {
+      "name": "React Native",
+      "capacity": "90%",
+      "bgColor": "#ccf5ff",
+      "fgColor": "#61DBFB"
+    },
+    {
+      "name": "Flutter",
+      "capacity": "80%",
+      "bgColor": "#ccf5ff",
+      "fgColor": "#00add8"
+    },
+    {
+      "name": "Node js",
+      "capacity": "60%",
+      "bgColor": "#d0ffcc",
+      "fgColor": "#68a063"
+    },
+    {
+      "name": "Firebase",
+      "capacity": "70%",
+      "bgColor": "#ffe6cc",
+      "fgColor": "#f5820d"
+    }
+  ],
+  "my_projects": [
+    {
+      "image": "/assets/images/portfolio_1.png",
+      "description": "Balancify is a side project I developed to simplify group expense management with friends and family.",
+      "link": "https://balancify.vercel.app/"
+    }
+  ]
+}
