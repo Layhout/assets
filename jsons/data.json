@@ -173,16 +173,16 @@
   ],
   "socialLinks": [
     {
-      "name": "Telegram",
-      "link": "https://t.me/layhout"
-    },
-    {
       "name": "LinkedIn",
       "link": "https://www.linkedin.com/in/layhout-chea"
     },
     {
       "name": "Github",
       "link": "https://github.com/Layhout"
+    },
+    {
+      "name": "Telegram",
+      "link": "https://t.me/layhout"
     },
     {
       "name": "Facebook",
